@@ -41,7 +41,7 @@
     "inquirer": "^7.0.4",
     "lerna": "^3.4.0",
     "mocha": "^7.0.1",
-    "semantic-release": "^17.0.3"
+    "semantic-release": "^17.0.4"
   },
   "directories": {
     "lib": "lib"
